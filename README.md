@@ -10,8 +10,8 @@ I'm a passionate **[software development]** with experience in **[javascript,HTL
 - 🌱 Currently learning: **[javascript,HTLM,CSS3]**
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 📫 How to reach me: **[presh041@gmail.com]**
+- ⚡ Fun fact: **[I enjoy solving complex problems]**
 
 ## My Skills 🧠
 
