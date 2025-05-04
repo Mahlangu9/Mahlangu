@@ -40,7 +40,7 @@ I'm a passionate **[software development]** with experience in **[javascript,HTL
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(https://www.linkedin.com/in/precious-mahlangu-b0885518b/)
+- **[Twitter]**(https://x.com/preciou58555222)
 
 
